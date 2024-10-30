@@ -17,22 +17,18 @@ The data was collected from crime reports across Lagos for the year 2022, contai
 - Table: Store name and number of out-of-stock products.
 
 # Key Insights
-- Monthly Crime Trends: Crime peaks were observed in April, March, and May, suggesting seasonal variations in crime rates.
-- Crime by Location: High-risk areas, such as Alimosho, Ifako, and Agege, consistently reported higher crime rates, identifying them as crime hotspots.
-- Top 10 Crimes: Theft, Battery, and Narcotics were the most frequent crimes, accounting for the majority of incidents.
-- Domestic vs. Non-Domestic Cases: Most reported crimes were non-domestic, highlighting public safety issues outside of the home.
+1. **Monthly Sales Trends**: March to June consistently emerge as peak months, with April leading in sales at $1.51M. December shows elevated sales in 2017 due to holiday demand, indicating its significance during festive seasons.
+2. **Top-Selling Products**:
+    - Lego Bricks is the highest-selling product, maintaining a profit margin of 12.50%, suggesting a stable profit despite production costs.
+    - Jenga stands out with a remarkable profit margin of 70.07%, leading in both sales and units sold in 2017.
+    - Color Buds and Lego Bricks are top-selling products, signaling strong consumer demand.
+3. **Category Performance**: The Toys category dominates with $5.09 million in sales and a $1.08 million profit, emphasizing high consumer interest and profitability.
+4. **Location Profitability**: The Downtown location achieves the highest profit margin at 56.02%, attributed to factors like high foot traffic and effective cost management.
+5. **Stock Availability**: 77 products are currently out of stock, indicating a need for improved inventory management.
 
-# Proposed Solutions
-Based on the analysis, the following strategies are recommended to improve public safety in Lagos:
-1. **Resource Allocation**:
-    - Prioritize law enforcement in high-crime areas (e.g., Alimosho and Agege) by increasing police presence and surveillance.
-2. **Seasonal Preparedness**:
-    - Anticipate crime surges during festive periods by deploying additional security measures.
-    - Focus on reducing theft and robbery through public awareness campaigns and community policing efforts.
-3. **Domestic Crime Intervention**:
-    - Strengthen support services and local awareness programs for victims of domestic crime.
-# Visualizations
-- Line Chart: Monthly crime trends.
-- Column Chart: Crime rates by location.
-- Bar Chart: Top 10 most frequent crimes.
-- Pie Chart: Breakdown of domestic vs. non-domestic cases.
+# Recommendations
+- **Replicate Success of Downtown Location**: Analyze factors driving Downtown’s profitability and apply successful strategies across other store locations to improve performance.
+- **Targeted Marketing Campaigns**: Develop tailored marketing campaigns for each location (e.g., Airport and Residential) to attract more customers and increase sales.
+- **Optimize Operational Processes**: Streamline inventory management and sourcing strategies in the Toys category to reduce costs and boost margins.
+- **Engagement in Other Categories**: Implement customer engagement campaigns, exclusive promotions, and social media strategies to increase sales in the Other category.
+- **Address Stockouts**: Improve inventory planning and management to reduce out-of-stock instances, ensuring consistent product availability and customer satisfaction.
