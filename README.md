@@ -4,9 +4,9 @@ This repository provides an analysis of Mavin Toy Store's sales data to derive i
 - Power BI for data visualization and dashboard creation
 - SQL for data extraction and transformation
 # Data Source
-The data was collected from crime reports across Lagos for the year 2022, containing details on crime types, locations, case classifications, and monthly records.
+
 # Dashboard
-![Lagos Crime Aanlysis 2022](https://github.com/user-attachments/assets/a1e47928-d76c-4dce-b963-f6572974e9e2)
+![Mavins Toy Store](https://github.com/user-attachments/assets/9b3e15ba-421e-470a-a864-794d732d512e)
 # Visuals
 - Line Chart: Total profits by month.
 - Line Chart: Monthly sales trend.
